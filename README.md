@@ -1,4 +1,4 @@
-# GesturePuppet 🎭✋
+# Gesture-Puppet-Theatre 🎭✋
 
 An interactive Unity project that brings traditional Taiwanese Budaixi (glove puppetry) to life using LeapMotion hand tracking technology.
 
